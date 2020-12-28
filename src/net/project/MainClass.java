@@ -6,6 +6,7 @@ public class MainClass {
 		System.out.println("Hello word!");
 		System.out.println("vedented head moment");
 		System.out.print("WOOOOOOOO");
+		System.out.println("test");
 	}
 	
 }
